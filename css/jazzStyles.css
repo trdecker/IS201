@@ -17,7 +17,20 @@
     padding: 0;
     background-color: #CCCCCC;
     color: rgb(0, 0, 0);
-    height: 600px;
+    height: 800px;
+    width: 100%;
+}
+.ending {
+    background-image: url(../assets/img/drums-bg.jpg);
+    background-size: cover;
+    background-position: 50% 80%;
+    background-repeat: no-repeat;
+    text-align: top;
+    margin: 0;
+    padding: 0;
+    background-color: #CCCCCC;
+    color: rgb(0, 0, 0);
+    height: 500px;
     width: 100%;
 }
 div.quote {
@@ -34,15 +47,18 @@ div.quote {
 }
 .body {
     background-color: lightgray;
+    padding-top: 20px;
 }
 .description {
     margin-left: 16px;
-    padding-top: 0px;
+    padding-top: 0;
+    margin-top: 0;
     padding-left: 20px;
-    margin-left: 300px;
+    margin-left: 220px;
     padding-right: 4px;
     margin-bottom: 16px;
-    width: 800px;
+    padding-right: 20px;
+    width: 760px;
     border: darkgray solid 1px;   
 }
 .description b {
@@ -50,7 +66,7 @@ div.quote {
     font-weight: 900;
 }
 .video {
-    margin-left: 300px;
+    margin-left: 220px;
 }
 .footer {
     display: flex;
@@ -76,10 +92,12 @@ div.quote {
     margin-left: 30px;
     font-family: cursive;
     padding-right: 5px;
+    margin-top: 0;
 }
 #line-one {
     font-size: 20px;
     font-weight: bold;
+    padding-top: 0;
 }
 #tableau-header {
     padding-left: 200px;
