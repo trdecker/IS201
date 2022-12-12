@@ -20,19 +20,6 @@
     height: 800px;
     width: 100%;
 }
-.ending {
-    background-image: url(../assets/img/drums-bg.jpg);
-    background-size: cover;
-    background-position: 50% 80%;
-    background-repeat: no-repeat;
-    text-align: top;
-    margin: 0;
-    padding: 0;
-    background-color: #CCCCCC;
-    color: rgb(0, 0, 0);
-    height: 500px;
-    width: 100%;
-}
 div.quote {
     position: relative;
     left: 62%;
