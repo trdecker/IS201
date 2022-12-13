@@ -30,6 +30,7 @@ div.quote {
     background: rgba(204, 204, 204, 0.8);
     padding: 8px;
     padding-left: 24px;
+    padding-bottom: 40px;
     font-size: xx-large;
 }
 .body {
