@@ -1,7 +1,7 @@
 .header {
     font-family: sans-serif;
     font-size: 37px;
-    padding-left: 40px;
+    padding-left: 36px;
     background-color: white;
     margin-top: 0;
     padding-top: 0;
@@ -10,7 +10,7 @@
 .title {
     background-image: url(../assets/img/jazz-side-image.jpg);
     background-size: cover;
-    background-position: 50% 80%;
+    background-position: 5% 55%;
     background-repeat: no-repeat;
     text-align: top;
     margin: 0;
