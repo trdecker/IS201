@@ -49,6 +49,9 @@ div.quote {
     width: 760px;
     border: darkgray solid 1px;   
 }
+.description a {
+    text-decoration: none;
+}
 .description b {
     font-family: cursive;
     font-weight: 900;
